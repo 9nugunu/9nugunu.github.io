@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Geunwoo Kim
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Geunwoo Kim #Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Geunwoo #Shiung Wu
+last_name: Kim #Chien
 
 # Status emoji
 status:
@@ -17,37 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Korea University #Stanford University
+    url: https://sejong.korea.ac.kr/kr #https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include accelerator physics, beam diagnostics and beam instrumentations.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Accelerator Physics #Artificial Intelligence
+  - Beam diagnostics #Computational Linguistics
+  - Beam Instrumentation #Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S in Accelerator Science #PhD in Artificial Intelligence
+      institution: Korea University #Stanford University
+      year: 2023. 03. ~
+    - course: B.S. in Electronical and Information Engineering #MEng in Artificial Intelligence
+      institution: Korea University #Massachusetts Institute of Technology
+      year: 2019 ~ 2023. 02.
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+"""
 skills:
   - name: Technical
     items:
@@ -85,6 +83,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
+"""
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +119,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Geunwoo Kim is a master student of accelerator science at the Korea Accelerator Development Lab. His research interests include accelerator physics, beam diagnostics and beam instrumentations. He has participated as a trainee at a Rare isotope Accelerator complex for ON-line experiments(RAON) since March 2024.{style="text-align: justify;"}
