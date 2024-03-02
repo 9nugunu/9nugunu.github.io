@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Geunwoo Kim #Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Geunwoo #Shiung Wu
+last_name: Kim #Chien
 
 # Status emoji
 status:
@@ -21,30 +21,27 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Korea University #Stanford University
+    url: https://sejong.korea.ac.kr/kr #https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Accelerator Physics #Artificial Intelligence
+  - Beam diagnostics #Computational Linguistics
+  - Beam Instrumentation #Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S in Accelerator Science #PhD in Artificial Intelligence
+      institution: Korea University #Stanford University
+      year: 2023. 03. ~
+    - course: B.S. in Electronical and Information Engineering #MEng in Artificial Intelligence
+      institution: Korea University #Massachusetts Institute of Technology
+      year: 2019 ~ 2023. 02.
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
