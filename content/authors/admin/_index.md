@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Geunwoo Kim
 
 # Name pronunciation (optional)
 name_pronunciation: Geunwoo Kim #Chien Shiung Wu
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://sejong.korea.ac.kr/kr #https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include accelerator physics, beam diagnostics and beam instrumentations.
 
 # Interests to show in About widget
 interests:
@@ -45,6 +45,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+"""
 skills:
   - name: Technical
     items:
@@ -82,6 +83,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
+"""
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
