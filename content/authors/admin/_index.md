@@ -119,5 +119,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Geunwoo Kim is a master student of accelerator science at the Korea Accelerator Development Lab. His research interests include accelerator physics, beam diagnostics and beam instrumentations. He has participated as a trainee at a Rare isotope Accelerator complex for ON-line experiments(RAON) since March 2024.{style="text-align: justify;"}
